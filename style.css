@@ -136,7 +136,8 @@
       color: #fff !important;
   }
   .navbar-brand>img {
-  height: 375%;  
+  height: 125%;
+  padding: 0px 15px;
   width: auto;
 }
   footer .glyphicon {
